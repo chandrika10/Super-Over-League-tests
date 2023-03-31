@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f8fafc;
+  font-family: "roboto";
+  font-size: 35px;
+}
+.img {
+  height: 200px;
+  width: 250ps;
+}
+.img-container {
+  display: flex;
+}
